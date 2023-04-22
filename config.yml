@@ -1,4 +1,8 @@
-baseURL: http://example.org/
+baseURL: https://MrDZhou.github.io/myblog/
+languageCode: en-us
+title: My New Hugo Site
+theme: "PaperMod"
+baseURL: https://MrDZhou.github.io/myblog/
 languageCode: en-us
 title: My New Hugo Site
 theme: "PaperMod"
