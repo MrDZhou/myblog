@@ -1,4 +1,4 @@
-baseURL: https://mrdzhou.github.io/myblog/
+baseURL: http://mrdzhou.github.org/
 languageCode: en-us
 title: My New Hugo Site
 theme: "PaperMod"
